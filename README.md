@@ -1,6 +1,6 @@
 # LeeKangW
 
-<img src="https://img.shields.io/badge/Unity-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-00000?style=flat-square&logo=Android&logoColor=white"/>
 
 <!--
 **LeeKangW/LeeKangW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
