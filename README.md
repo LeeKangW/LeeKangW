@@ -8,7 +8,7 @@
 - <a href="mailto:leegw1371@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leegw1371@gmail.com"/></a>
 
 ## Create
-- Electroad 🚛  
+- Electroad 🎮  
   (Link : https://play.google.com/store/apps/details?id=com.NightOwlStudio.Electroad )
 
 ## Game Engine
