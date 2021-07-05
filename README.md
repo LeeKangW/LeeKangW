@@ -9,7 +9,7 @@
 
 ## Create
 
-- Electroad 📱  <img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white&link=https://play.google.com/store/apps/details?id=com.NightOwlStudio.Electroad" />  
+- Electroad 📱  <img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />  
 ( Link : https://play.google.com/store/apps/details?id=com.NightOwlStudio.Electroad )
 
 ## Game Engine
