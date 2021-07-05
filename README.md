@@ -8,13 +8,17 @@
 - <a href="mailto:leegw1371@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leegw1371@gmail.com"/></a>
 
 ## Create
-- Electroad 📱  
-  (Link : https://play.google.com/store/apps/details?id=com.NightOwlStudio.Electroad )
+
+- Electroad 📱  <img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white&link=https://play.google.com/store/apps/details?id=com.NightOwlStudio.Electroad" />  
+( Link : https://play.google.com/store/apps/details?id=com.NightOwlStudio.Electroad )
 
 ## Game Engine
 - <img alt="Unity" src ="https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=Unity&logoColor=White"/>
+- <img alt="Unreal Engine" src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 
 ## Languages
+- <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeKangW&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
