@@ -1,14 +1,15 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeKangW%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+
 ## 👋 Hi, there!
+
 - I'm a Game Client Developer 🎮 
 - I'm working in South korea
 - I’m currently working on **SundayToz**
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeKangW%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+### Resume ( is Working )
+- 📄 https://leekangw.github.io/
 
-## Resume ( is Working )
-- https://leekangw.github.io/
-
-## How to Reach me?
+### How to Reach me?
 - <a href="mailto:leegw1371@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leegw1371@gmail.com"/></a>
 
 ## Create
