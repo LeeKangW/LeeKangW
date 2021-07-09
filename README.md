@@ -6,7 +6,7 @@
 - I'm working in South korea
 - I’m currently working on **SundayToz**
 
-### Resume ( is Working )
+### Resume
 - 📄 https://leekangw.github.io/
 
 ### How to Reach me?
