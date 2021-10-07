@@ -6,6 +6,9 @@
 - I'm working in South korea
 - I’m currently working on **SundayToz**
 
+### Blog
+- 📄 https://idle-gamedeveloper.tistory.com/
+
 ### Resume
 - 📄 https://leekangw.github.io/
 
