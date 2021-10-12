@@ -7,7 +7,7 @@
 - I’m currently working on **SundayToz**
 
 ### Blog
-- 📄 https://idle-gamedeveloper.tistory.com/
+- 📄 https://velog.io/@night
 
 ### Resume
 - 📄 https://leekangw.github.io/
