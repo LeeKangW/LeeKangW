@@ -7,9 +7,6 @@
 - I’m currently working on **SundayToz**
 
 ### Blog
-- 📄 https://velog.io/@night
-
-### Resume
 - 📄 https://leekangw.github.io/
 
 ### How to Reach me?
