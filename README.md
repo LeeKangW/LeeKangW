@@ -6,6 +6,9 @@
 - I'm working in South korea
 - I’m currently working on **SundayToz**
 
+### Resume
+- [Notion Link](https://plastic-butterkase-aff.notion.site/819b07b903c04208ac9d743d71d8539a)
+
 ### Blog
 - 📄 https://leekangw.github.io/
 
