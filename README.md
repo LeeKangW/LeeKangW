@@ -4,15 +4,18 @@
 
 - I'm a Game Client Developer 🎮 
 - I'm working in South korea
-- I’m currently working on **SundayToz**
 
-### Resume
+## Work 🧑‍💻
+- 23.11 ~ : **NCSOFT**
+- 20.11 ~ 23.10: Sundaytoz
+
+## Resume
 - [Notion Link](https://plastic-butterkase-aff.notion.site/819b07b903c04208ac9d743d71d8539a)
 
-### Blog
+## Blog
 - 📄 [https://leekangw.github.io/](https://leekangw.github.io/)
 
-### How to Reach me?
+## How to Reach me?
 - <a href="mailto:leegw1371@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leegw1371@gmail.com"/></a>
 
 ## Create
