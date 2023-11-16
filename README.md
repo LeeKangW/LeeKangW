@@ -6,8 +6,8 @@
 - I'm working in South korea
 
 ## Work 🧑‍💻
-- 23.11 ~ : **NCSOFT**
-- 20.11 ~ 23.10: Sundaytoz
+- 2023.11. ~ : **NCSOFT**
+- 2020.11. ~ 2023.10.: Sundaytoz
 
 ## Resume
 - [Notion Link](https://plastic-butterkase-aff.notion.site/819b07b903c04208ac9d743d71d8539a)
